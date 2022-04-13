@@ -1,6 +1,6 @@
 
 
-// Задание 3.1
+//Р—Р°РґР°РЅРёРµ 3.1
 
 #include<fstream>
 #include<iostream>
@@ -21,7 +21,7 @@ int main()
 }
 
 
-//Задание 3.2
+//Р—Р°РґР°РЅРёРµ 3.2
 
 #include <fstream>
 #include <iostream>
